@@ -17,5 +17,4 @@ form.addEventListener('submit', async (event) => {
         function: replaceImages,
         args: [input.value]
     });
-})
-jdiakhfaklfa
+});
